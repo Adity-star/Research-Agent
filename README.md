@@ -1,6 +1,6 @@
 # ResearchAgent 
 
-Welcome to my **Research Agent** project! This is a personal tool I’ve built to automate the process of gathering and organizing research on any topic, making deep dives into new subjects easier and faster. 🧠💡
+Welcome to my **Research Agent** project! This is a personal tool I’ve built to automate the process of gathering and organizing research on any topic, making deep dives into new subjects easier and faster. 
 Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
 
 This tool allows you to:
