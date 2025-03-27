@@ -5,8 +5,8 @@ Our goal is to enable your agents to collaborate effectively on complex tasks, m
 
 This tool allows you to:
 
-**Input:** Just provide a topic of interest.  
-**Output:** A **detailed, well-structured research report** on that topic, automatically generated! check out this [report](https://github.com/Adity-star/Research-Agent/blob/main/output/report.md)
+* **Input:** Just provide a topic of interest.  
+* **Output:** A **detailed, well-structured research report** on that topic, automatically generated! check out this [report](https://github.com/Adity-star/Research-Agent/blob/main/output/report.md)
 
 The goal is to save time and effort in compiling research data by automating the collection and organization of information. The research agent intelligently gathers relevant sources, analyzes them, and generates reports with structured insights.
 
